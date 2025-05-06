@@ -3,6 +3,10 @@ layout: about
 title: About
 ---
 
-## About
+## Welcome to my site
 
-Hi, nice to meet you.
+### Reason
+
+### Why, What, How
+
+### Contact
